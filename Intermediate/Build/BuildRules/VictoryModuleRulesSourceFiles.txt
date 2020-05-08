@@ -1,0 +1,3 @@
+C:\Users\darry\OneDrive\Documents\Unreal Projects\Victory\Source\Victory\Victory.Build.cs
+C:\Users\darry\OneDrive\Documents\Unreal Projects\Victory\Source\Victory.Target.cs
+C:\Users\darry\OneDrive\Documents\Unreal Projects\Victory\Source\VictoryEditor.Target.cs
